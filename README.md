@@ -1,17 +1,24 @@
 ### Hey guys 👋
 
-English 🇺🇸 | [Português 🇧🇷](./README-pt_BR.md)
 
-Welcome to my GitHub repository!
+<kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./README-pt_BR.md)</kbd>
+<kbd>[<img alt="Español" title="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.ES.md)
 
-Here you will find a collection of my projects, each with their own unique code and documentation. Feel free to explore the repository and check out the different projects that I have been working on. If you have any questions or suggestions, don't hesitate to contact me. 
+Hey there! Welcome to my GitHub corner!
 
-- 💬 Ask me about Development, don't worry - I'm here to lend a byte. 🥁
-- 📫 How to reach me: contact@natanaelborges.com
+This is where the magic happens—or at least where code, coffee, and a bit of creative chaos come together. 🚀
 
-😲 Useless facts about me: You can usually find me tinkering with my homebrew setup or perfecting my BBQ technique. There's just something so satisfying about the process of creating something delicious from scratch. Plus, nothing beats the feeling of sharing a cold beer or a plate of perfectly smoked ribs with loved ones. For me, brewing and barbecuing are more than just hobbies - they're a way of life!
+💻 <strong>What you'll find here:</strong> <br/>
+A collection of projects that showcase my passion for development. From full-stack wonders to nifty little tools, each repository is crafted with care (and a few late-night debugging sessions). Feel free to dive in and explore!
 
-😂 Useful facts about me: I love to do in my free time: brewing beer and firing up the barbecue.
+💬 <strong>Need a hand with something techy?</strong> <br/>
+I'm your go-to for anything development-related—let's turn those bugs into features! (Or at least into less annoying bugs). 😉
+
+📫 <strong>Reach me at:</strong> hello@natanaelborges.com <br/>
+If you're into homebrewing or BBQ as much as coding, we might just become best friends. 🍻
+
+🔥 <strong>Fun fact:</strong> <br/> 
+When I'm not wrestling with code, you’ll find me mastering the art of brewing beer or perfecting the ultimate BBQ. Because nothing says "debugging" like a cold brew and some smoked ribs. 🥩
 
 Follow me:
 
