@@ -2,7 +2,7 @@
 
 
 <kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](./README-pt_BR.md)</kbd>
-<kbd>[<img alt="Español" title="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.ES.md)
+<kbd>[<img alt="Español" title="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./README.ES.md)</kbd>
 
 Hey there! Welcome to my GitHub corner!
 

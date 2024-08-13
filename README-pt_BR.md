@@ -1,17 +1,23 @@
 ### Ei pessoal 👋
 
-[English 🇺🇸](./README.md) | Português 🇧🇷
+<kbd>[<img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">](./README.md)</kbd>
+<kbd>[<img alt="Español" title="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./README.ES.md)</kbd>
 
-Bem-vindo ao meu repositório GitHub! 
+Olá! Bem-vindo ao meu cantinho do GitHub!
 
-Aqui você encontrará uma coleção de meus projetos, cada um com seu próprio código e documentação exclusivos. Sinta-se à vontade para explorar o repositório e conferir os diferentes projetos nos quais tenho trabalhado. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo. 
+É aqui que a mágica acontece—ou pelo menos onde código, café e um pouco de caos criativo se encontram. 🚀
 
-- 💬 Me pergunte sobre Desenvolvimento, não se preocupe - estou aqui para emprestar um byte. 🥁
-- 📫 Como entrar em contato: contact@natanaelborges.com
+💻 <strong>O que você vai encontrar aqui:</strong> <br/>
+Uma coleção de projetos que mostram minha paixão por desenvolvimento. De maravilhas full-stack a pequenas ferramentas úteis, cada repositório é feito com cuidado (e algumas sessões de depuração madrugada adentro). Sinta-se à vontade para explorar!
 
-😲 Fatos inúteis sobre mim: geralmente você vai me encontrar consertando minha configuração de homebrew ou aperfeiçoando minhas técnicas de churrasco. Há algo tão satisfatório no processo de criar algo delicioso do zero. Além disso, nada supera a sensação de compartilhar uma cerveja gelada ou um prato de costelas perfeitamente defumadas com seus entes queridos. Para mim, fazer cerveja e fazer churrasco são mais do que apenas hobbies - são um estilo de vida!
+💬 <strong>Precisa de uma mãozinha com algo técnico?</strong><br/>
+Sou a pessoa certa para qualquer coisa relacionada a desenvolvimento—vamos transformar aqueles bugs em features! (Ou pelo menos em bugs menos irritantes). 😉
 
-😂 Fatos úteis sobre mim: Amo fazer cerveja e churrasco no meu tempo livre.
+📫 <strong>Entre em contato:</strong> hello@natanaelborges.com<br/>
+Se você curte tanto fazer cerveja artesanal ou churrasco quanto codar, talvez nos tornemos grandes amigos. 🍻
+
+🔥 <strong>Curiosidade:</strong> <br/>
+Quando não estou brigando com o código, você me encontrará dominando a arte de fazer cerveja ou aperfeiçoando o churrasco perfeito. Porque nada diz "depuração" como uma cerveja gelada e algumas costelas defumadas. 🥩
 
 Me siga:
 
