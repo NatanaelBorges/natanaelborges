@@ -1,28 +1,41 @@
-### Ei pessoal 👋
+# Ei, pessoal 👋
 
-<kbd>[<img title="English" alt="English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gb.svg" width="22">](./README.md)</kbd>
-<kbd>[<img alt="Español" title="Español" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](./README.ES.md)</kbd>
+<kbd>[<img title="English" alt="English" src="https://flagcdn.com/w40/gb.png" width="22">](./README.md)</kbd>
+<kbd>[<img alt="Español" title="Español" src="https://flagcdn.com/w40/es.png" width="22">](./README.ES.md)</kbd>
 
-Olá! Bem-vindo ao meu cantinho do GitHub!
+Eu sou o Natanael, engenheiro full-stack. Especialidade: sistemas que não te acordam às 3 da manhã.
 
-É aqui que a mágica acontece—ou pelo menos onde código, café e um pouco de caos criativo se encontram. 🚀
+Já construí software o suficiente para saber que a solução mais simples costuma ser a certa, que os requisitos _vão_ mudar toda sexta-feira à tarde, e que `console.log` continua sendo uma estratégia de debug perfeitamente válida. 🚀
 
-💻 <strong>O que você vai encontrar aqui:</strong> <br/>
-Uma coleção de projetos que mostram minha paixão por desenvolvimento. De maravilhas full-stack a pequenas ferramentas úteis, cada repositório é feito com cuidado (e algumas sessões de depuração madrugada adentro). Sinta-se à vontade para explorar!
+**🛠️ Tecnologias que uso:**
 
-💬 <strong>Precisa de uma mãozinha com algo técnico?</strong><br/>
-Sou a pessoa certa para qualquer coisa relacionada a desenvolvimento—vamos transformar aqueles bugs em features! (Ou pelo menos em bugs menos irritantes). 😉
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,nextjs,nodejs,python,redis,mongodb,mysql,postgres,aws,azure,gcp&perline=7)](https://skillicons.dev)
 
-📫 <strong>Entre em contato:</strong> hello@natanaelborges.com<br/>
-Se você curte tanto fazer cerveja artesanal ou churrasco quanto codar, talvez nos tornemos grandes amigos. 🍻
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-🔥 <strong>Curiosidade:</strong> <br/>
-Quando não estou brigando com o código, você me encontrará dominando a arte de fazer cerveja ou aperfeiçoando o churrasco perfeito. Porque nada diz "depuração" como uma cerveja gelada e algumas costelas defumadas. 🥩
+_...e muito mais. A tecnologia é escolhida pelo problema, não o contrário._
 
-Me siga:
+**📚 Sempre aprendendo:**
+<br/>
+Por conta própria, com alguém, ou fingindo que entendi até entender de verdade, conhecimento nunca é demais.
+
+**💬 Vale entrar em contato se:**
+
+- Você quer discutir arquitetura, trade-offs ou por que algo misteriosamente quebra só em prod
+- Achou um bug em algum repositório meu _(acontece com os melhores)_
+- Só quer bater um papo sobre tecnologia
+
+📫 **[hello@natanaelborges.com](mailto:hello@natanaelborges.com)**
+
+**🍺 Fora do teclado:**
+<br/>
+Cerveja artesanal e churrasco, projetos paralelos com requisitos bem definidos, temperatura crítica e, no final, todo mundo tem uma opinião sobre o resultado. 🥩
+
+---
 
 [![Site Badge](https://img.shields.io/badge/-Website%2fBlog-red?style=flat-square&logo=website&logoColor=white&link=https://natanaelborges.com/)](https://natanaelborges.com/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NatanaelBorges)](https://github.com/NatanaelBorges)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-borges/)](https://www.linkedin.com/in/natanael-borges/)
-
-Obrigado pela visita! 💙
